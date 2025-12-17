@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Vaibhav Pandey
+## Hi there 👋 I'm Vaibhav
 
 🎓 **Computer Science & Engineering student**  
 🔐 **Specialization: Cyber Security**  
