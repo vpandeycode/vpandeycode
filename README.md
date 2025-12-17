@@ -1,19 +1,15 @@
-## Hi there 👋 I'm Vaibhav Pandey
+👋 I'm Vaibhav
 
 🎓 **Computer Science & Engineering student**  
 🔐 **Specialization: Cyber Security**  
 🤖 Exploring **Machine Learning & AI projects**  
 💻 Passionate about technology, problem-solving, and continuous learning
 
----
-
 ### 👨‍💻 About Me
 - I’m a college student pursuing **CSE with a focus on Cyber Security**
 - Currently working on **Machine Learning projects**
 - Interested in **secure systems, automation, and data-driven solutions**
 - Actively improving my skills in **Python, C, Web Development, and ML**
-
----
 
 ### 🛠️ Skills & Technologies
 - **Languages:** Python, C, HTML, CSS, JavaScript  
