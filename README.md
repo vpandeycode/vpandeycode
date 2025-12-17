@@ -21,40 +21,6 @@
 - **Tools & Platforms:** Git, GitHub, VS Code, Linux (basics)  
 - **Concepts:** OOPs, Data Structures (basics), Problem Solving  
 
----
-
-### 🚀 Current Focus
-- 📊 Building beginner-to-intermediate **ML projects**
-- 🔐 Understanding **security fundamentals & secure coding**
-- 🌐 Improving **full-stack development basics**
-- 🧠 Strengthening core CS concepts
-
----
-
-### 📂 Projects
-- 🔹 Machine Learning mini-projects  
-- 🔹 Academic & personal coding projects  
-- 🔹 Web-based prototypes  
-
-*(More projects coming soon 🚧)*
-
----
-
-### 📈 Goals
-- Become strong in **Cyber Security + Machine Learning**
-- Build **real-world, impactful projects**
-- Gain **industry-ready skills**
-- Contribute to **open-source** in the future
-
----
-
-### 🤝 Connect With Me
-- 💼 LinkedIn: *[Add your LinkedIn link]*  
-- 🐙 GitHub: *You're already here!*  
-
----
-
-⭐ *Feel free to explore my repositories and connect with me!*  
 
 
 <!--
