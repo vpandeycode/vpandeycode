@@ -1,9 +1,9 @@
 I'm Vaibhav
 
-**Computer Science & Engineering student**  
-**Specialization: Cyber Security**  
-Exploring **Machine Learning & AI projects**  
-Passionate about technology, problem-solving, and continuous learning
+- **Computer Science & Engineering student**  
+- **Specialization: Cyber Security**  
+- Exploring **Machine Learning & AI projects**  
+- Passionate about technology, problem-solving, and continuous learning
 
 ### About Me
 - I’m a college student pursuing **CSE with a focus on Cyber Security**
