@@ -1,36 +1,77 @@
-I'm Vaibhav
+# Hey, I'm Vaibhav Pandey 👋
 
-- **Computer Science & Engineering student**  
-- **Specialization: Cyber Security**  
-- Exploring **Machine Learning & AI projects**  
-- Passionate about technology, problem-solving, and continuous learning
+### 💻 Developer | Open-Source Learner
 
-### About Me
-- I’m a college student pursuing **CSE with a focus on Cyber Security**
-- Currently working on **Machine Learning projects**
-- Interested in **secure systems, automation, and data-driven solutions**
-- Actively improving my skills in **Python, C, Web Development, and ML**
+I'm a Computer Science student passionate about building useful software, exploring cybersecurity, and understanding how systems work under the hood.
 
-### Skills & Technologies
-- **Languages:** Python, C, HTML, CSS, JavaScript  
-- **Domains:** Cyber Security, Machine Learning, Web Development  
-- **Tools & Platforms:** Git, GitHub, VS Code, Linux (basics)  
-- **Concepts:** OOPs, Data Structures (basics), Problem Solving  
+- 🔭 Currently working on **EchoGuard** — a real-time audio noise-reduction project.
+- 🌱 Learning **Data Structures & Algorithms, Java, Backend Development, and Cybersecurity**.
+- 🐧 Linux enthusiast exploring Fedora, Hyprland, and developer tooling.
+- 🛠️ Interested in embedded systems, AI, and open-source software.
+- 🎯 Goal: Build impactful projects and become a better engineer every day.
 
+---
+
+## 🌐 Connect With Me
+
+\
 
 
-<!--
+---
 
-**vpandeycode/vpandeycode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Tech Stack
 
-Here are some ideas to get you started:
+### Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+\
+
+
+### Tools & Technologies
+
+
+
+
+\
+
+
+---
+
+## 🚀 Featured Projects
+
+### 🔊 EchoGuard
+
+Real-time audio noise reduction using adaptive filtering and a lightweight CNN, targeting embedded hardware.
+
+**Tech:** Python · TensorFlow Lite · DSP · ESP32
+
+### 📋 C Task Manager
+
+A command-line task management application built to practise C programming and problem-solving.
+
+**Tech:** C · Data Structures
+
+---
+
+## 📊 GitHub Stats
+
+
+
+
+
+---
+
+## 🔥 Contribution Streak
+
+
+
+---
+
+## 🏆 GitHub Trophies
+
+
+
+---
+
+*“Building, breaking, learning, and building again.”* 🚀
