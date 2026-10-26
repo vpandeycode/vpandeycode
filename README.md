@@ -1,4 +1,4 @@
-# 👋 Hi, I'm YOUR NAME
+# 👋 Hi, I'm Vaibhav Pandey
 
 I'm a developer who likes working close to the metal: Linux systems, embedded hardware, signal processing and ML that actually runs on tiny devices. I'm also building up my Java backend and cybersecurity skills.
 
@@ -68,19 +68,19 @@ I'm a developer who likes working close to the metal: Linux systems, embedded ha
 
 # 📊 GitHub Stats
 
-[![Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=github-dark&hide_border=false)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Streak](https://streak-stats.demolab.com/?user=vpandeycode&theme=github-dark&hide_border=false)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vpandeycode&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🌟 Contribution Stats
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=vpandeycode&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&radius=10&theme=react&area=true&order=5&custom_title=Contribution%20Graph)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=vpandeycode&radius=10&theme=react&area=true&order=5&custom_title=Contribution%20Graph)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ## 🏆 GitHub Trophies
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=false&no-bg=false&margin-w=44)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=vpandeycode&theme=radical&no-frame=false&no-bg=false&margin-w=44)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-![Visitors](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=brightgreen&style=flat)
+![Visitors](https://komarev.com/ghpvc/?username=vpandeycode&color=brightgreen&style=flat)
