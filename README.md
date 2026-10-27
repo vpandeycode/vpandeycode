@@ -13,12 +13,10 @@ I'm a developer who likes working close to the metal: Linux systems, embedded ha
 ## 🌐 Socials
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-vpandey.codes-000?style=flat&logo=cloudflare&logoColor=F38020)](https://vpandey.codes)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vpandeycode)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/YOUR_X_HANDLE)
 
 # 💻 Tech Stack
-
-### 🐧 Systems & Linux
 ![Fedora](https://img.shields.io/badge/Fedora_44-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
 ![Hyprland](https://img.shields.io/badge/Hyprland-00AEFF?style=for-the-badge&logo=hyprland&logoColor=white)
 ![Waybar](https://img.shields.io/badge/Waybar-1E1E2E?style=for-the-badge)
@@ -26,8 +24,6 @@ I'm a developer who likes working close to the metal: Linux systems, embedded ha
 ![Ghostty](https://img.shields.io/badge/Ghostty-3551F3?style=for-the-badge&logo=ghostty&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim_(LazyVim)-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 ![Bash](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-
-### 👨‍💻 Programming
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -36,8 +32,6 @@ I'm a developer who likes working close to the metal: Linux systems, embedded ha
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-### 🤖 AI, Audio & Embedded
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![TFLite](https://img.shields.io/badge/TF_Lite_INT8-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -45,21 +39,15 @@ I'm a developer who likes working close to the metal: Linux systems, embedded ha
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
 ![DSP](https://img.shields.io/badge/DSP-NLMS_%7C_STFT-555?style=for-the-badge)
 ![CNN](https://img.shields.io/badge/Causal_CNNs-555?style=for-the-badge)
-
-### 🌍 Web & Backend
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/JPA_%2F_Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🔐 Security & Networking
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco_Networking_Academy-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Pentesting](https://img.shields.io/badge/Pentesting_Fundamentals-B22222?style=for-the-badge)
-
-### 🧪 Exploring
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS_Lambda_%2F_RDS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
